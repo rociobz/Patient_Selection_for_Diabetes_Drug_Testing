@@ -1,0 +1,7 @@
+00
+Caucasian
+AfricanAmerican
+Hispanic
+nan
+Asian
+Other

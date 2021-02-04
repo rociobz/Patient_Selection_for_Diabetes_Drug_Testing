@@ -1,0 +1,286 @@
+00
+Glipizide
+Metformin Hydrochloride|Glipizide
+Metformin Hydrochloride|Glyburide
+""
+Human Insulin
+Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Human Insulin
+Glimepiride
+Metformin Hydrochloride|Rosiglitazone Maleate|Human Insulin
+Glyburide|Human Insulin
+Glipizide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glipizide|Human Insulin
+Metformin Hydrochloride|Glimepiride|Human Insulin
+Glyburide
+Metformin Hydrochloride
+Glimepiride|Human Insulin
+Glyburide And Metformin Hydrochloride|Human Insulin
+Metformin Hydrochloride|Glimepiride
+Repaglinide|Human Insulin
+Glipizide|Human Insulin
+Nateglinide|Human Insulin
+Glyburide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Rosiglitazone Maleate
+Rosiglitazone Maleate
+Glipizide|Pioglitazone
+Glipizide|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Glyburide|Rosiglitazone Maleate
+Glipizide|Rosiglitazone Maleate
+Acarbose|Human Insulin
+Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glyburide|Human Insulin
+Repaglinide
+Nateglinide|Glyburide
+Metformin Hydrochloride|Glipizide|Glyburide
+Repaglinide|Glimepiride|Human Insulin
+Metformin Hydrochloride|Pioglitazone|Human Insulin
+Glyburide And Metformin Hydrochloride
+Metformin Hydrochloride|Glimepiride|Glipizide|Human Insulin
+Pioglitazone
+Metformin Hydrochloride|Glipizide|Rosiglitazone Maleate|Human Insulin
+Metformin Hcl
+Glyburide|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Glyburide|Pioglitazone|Human Insulin
+Nateglinide|Glipizide|Human Insulin
+Glyburide And Metformin Hydrochloride|Nateglinide|Human Insulin
+Nateglinide
+Metformin Hydrochloride|Glipizide|Rosiglitazone Maleate
+Glyburide|Pioglitazone
+Acarbose
+Repaglinide|Pioglitazone
+Metformin Hydrochloride|Glipizide|Pioglitazone|Human Insulin
+Glimepiride|Pioglitazone|Human Insulin
+Nateglinide|Pioglitazone
+Metformin Hydrochloride|Glimepiride|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glyburide|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Glipizide|Pioglitazone
+Metformin Hydrochloride|Pioglitazone
+Metformin Hydrochloride|Glyburide|Pioglitazone
+Glimepiride|Pioglitazone
+Glimepiride|Glipizide
+Glyburide|Rosiglitazone Maleate
+Glimepiride|Rosiglitazone Maleate
+Metformin Hydrochloride|Nateglinide|Human Insulin
+Metformin Hydrochloride|Repaglinide|Glipizide|Acarbose|Human Insulin
+Metformin Hydrochloride|Nateglinide|Glyburide|Rosiglitazone Maleate
+Metformin Hydrochloride|Glimepiride|Glyburide
+Glyburide And Metformin Hydrochloride|Pioglitazone|Human Insulin
+Glipizide|Glyburide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Repaglinide|Human Insulin
+Metformin Hydrochloride|Glyburide|Miglitol|Human Insulin
+Metformin Hydrochloride|Acarbose
+Nateglinide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glimepiride|Pioglitazone
+Repaglinide|Acarbose|Human Insulin
+Metformin Hcl|Glyburide|Human Insulin
+Glipizide|Glyburide
+Pioglitazone Hydrochloride And Glimepiride|Pioglitazone Hydrochloride And Glimepiride|Human Insulin
+Metformin Hydrochloride|Glimepiride|Glipizide|Rosiglitazone Maleate|Human Insulin
+Nateglinide|Glipizide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Repaglinide|Glipizide|Rosiglitazone Maleate
+Metformin Hydrochloride|Glimepiride|Acarbose
+Repaglinide|Glyburide|Human Insulin
+Glipizide And Metformin Hydrochloride
+Glimepiride|Rosiglitazone Maleate|Human Insulin
+Metformin Hcl|Human Insulin
+Glipizide|Acarbose
+Tolbutamide|Human Insulin
+Glyburide|Pioglitazone|Acarbose
+Nateglinide|Glimepiride
+Metformin Hydrochloride|Glimepiride|Rosiglitazone Maleate|Human Insulin
+Glipizide|Glyburide|Human Insulin
+Glyburide And Metformin Hydrochloride|Pioglitazone
+Metformin Hydrochloride|Glipizide|Acarbose|Human Insulin
+Glimepiride|Glipizide|Miglitol|Human Insulin
+Metformin Hydrochloride|Acarbose|Human Insulin
+Metformin Hydrochloride|Repaglinide
+Metformin Hydrochloride|Nateglinide
+Metformin Hydrochloride|Repaglinide|Rosiglitazone Maleate
+Repaglinide|Glimepiride
+Pioglitazone Hydrochloride And Glimepiride|Pioglitazone Hydrochloride And Glimepiride
+Metformin Hydrochloride|Repaglinide|Glipizide|Human Insulin
+Metformin Hydrochloride|Nateglinide|Pioglitazone|Human Insulin
+Glimepiride|Glyburide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glipizide|Glyburide|Pioglitazone|Human Insulin
+Metformin Hcl|Glyburide And Metformin Hydrochloride|Pioglitazone
+Glyburide And Metformin Hydrochloride|Rosiglitazone Maleate|Human Insulin
+Nateglinide|Glipizide
+Metformin Hydrochloride|Nateglinide|Glipizide|Rosiglitazone Maleate
+Glimepiride|Glyburide|Human Insulin
+Glyburide And Metformin Hydrochloride|Glyburide|Human Insulin
+Repaglinide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Nateglinide|Rosiglitazone Maleate
+Glimepiride|Glipizide|Glyburide|Human Insulin
+Glimepiride|Glipizide|Human Insulin
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Human Insulin
+Glimepiride|Miglitol
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride
+Metformin Hydrochloride|Repaglinide|Glyburide|Human Insulin
+Glyburide And Metformin Hydrochloride|Acarbose
+Repaglinide|Glyburide|Acarbose
+Glipizide|Acarbose|Human Insulin
+Repaglinide|Glipizide|Rosiglitazone Maleate
+Repaglinide|Rosiglitazone Maleate
+Metformin Hydrochloride|Glimepiride|Glyburide|Human Insulin
+Repaglinide|Rosiglitazone Maleate|Human Insulin
+Pioglitazone|Acarbose
+Nateglinide|Rosiglitazone Maleate|Human Insulin
+Tolazamide|Human Insulin
+Metformin Hydrochloride|Repaglinide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glimepiride|Rosiglitazone Maleate
+Repaglinide|Glimepiride|Pioglitazone|Human Insulin
+Nateglinide|Glimepiride|Pioglitazone|Human Insulin
+Metformin Hcl|Pioglitazone|Human Insulin
+Pioglitazone Hydrochloride And Glimepiride|Pioglitazone Hydrochloride And Glimepiride|Glyburide|Human Insulin
+Nateglinide|Glyburide|Human Insulin
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Glipizide|Glyburide|Pioglitazone|Rosiglitazone Maleate|Human Insulin
+Glipizide|Glyburide|Acarbose|Human Insulin
+Tolbutamide
+Metformin Hydrochloride|Glyburide|Acarbose
+Metformin Hydrochloride|Nateglinide|Glyburide|Human Insulin
+Glyburide And Metformin Hydrochloride|Rosiglitazone Maleate
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Glyburide|Human Insulin
+Metformin Hydrochloride|Glipizide|Pioglitazone|Acarbose|Human Insulin
+Repaglinide|Pioglitazone|Rosiglitazone Maleate|Human Insulin
+Glipizide|Glyburide|Pioglitazone
+Metformin Hydrochloride|Glipizide|Glyburide|Pioglitazone
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Glimepiride|Glipizide|Pioglitazone|Human Insulin
+Glyburide And Metformin Hydrochloride|Glyburide|Rosiglitazone Maleate
+Glyburide And Metformin Hydrochloride|Repaglinide|Rosiglitazone Maleate
+Metformin Hydrochloride|Glipizide|Glyburide|Human Insulin
+Metformin Hydrochloride|Nateglinide|Glipizide|Human Insulin
+Glimepiride|Glyburide
+Glipizide And Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Glyburide|Human Insulin
+Metformin Hydrochloride|Nateglinide|Glyburide
+Repaglinide|Glipizide
+Rosiglitazone Maleate|Acarbose
+Metformin Hydrochloride|Repaglinide|Glimepiride|Pioglitazone|Human Insulin
+Nateglinide|Glimepiride|Human Insulin
+Glipizide And Metformin Hydrochloride|Glyburide And Metformin Hydrochloride
+Metformin Hcl|Glipizide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Repaglinide|Rosiglitazone Maleate|Human Insulin
+Metformin Hcl|Glyburide And Metformin Hydrochloride|Glyburide|Pioglitazone|Human Insulin
+Glyburide And Metformin Hydrochloride|Glimepiride
+Glyburide|Acarbose
+Glipizide And Metformin Hydrochloride|Pioglitazone
+Repaglinide|Glipizide|Human Insulin
+Metformin Hcl|Pioglitazone
+Metformin Hydrochloride|Glyburide|Pioglitazone|Rosiglitazone Maleate
+Metformin Hcl|Glimepiride
+Metformin Hcl|Glyburide
+Repaglinide|Glipizide|Pioglitazone
+Tolazamide
+Repaglinide|Pioglitazone|Miglitol|Human Insulin
+Metformin Hydrochloride|Pioglitazone|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Repaglinide|Glipizide|Rosiglitazone Maleate|Human Insulin
+Repaglinide|Acarbose
+Glipizide|Glyburide|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Glimepiride|Glipizide
+Pioglitazone|Tolazamide|Human Insulin
+Glipizide|Pioglitazone|Rosiglitazone Maleate
+Metformin Hydrochloride|Glimepiride|Pioglitazone|Acarbose|Human Insulin
+Metformin Hydrochloride|Glimepiride|Glipizide|Glyburide|Human Insulin
+Metformin Hcl|Glipizide|Human Insulin
+Glyburide And Metformin Hydrochloride|Glipizide
+Glipizide|Pioglitazone|Acarbose
+Metformin Hydrochloride|Nateglinide|Pioglitazone
+Metformin Hydrochloride|Tolazamide
+Metformin Hydrochloride|Glipizide|Miglitol|Human Insulin
+Repaglinide|Glyburide
+Glimepiride|Glipizide|Pioglitazone|Human Insulin
+Metformin Hcl|Glyburide|Pioglitazone
+Glipizide|Glyburide|Rosiglitazone Maleate
+Nateglinide|Pioglitazone|Rosiglitazone Maleate|Human Insulin
+Glimepiride|Glyburide|Rosiglitazone Maleate
+Metformin Hydrochloride|Glyburide|Pioglitazone|Acarbose
+Metformin Hydrochloride|Glipizide|Glyburide|Rosiglitazone Maleate|Human Insulin
+Repaglinide|Glimepiride|Rosiglitazone Maleate|Human Insulin
+Glyburide|Acarbose|Human Insulin
+Repaglinide|Glimepiride|Rosiglitazone Maleate
+Metformin Hydrochloride|Repaglinide|Glyburide|Pioglitazone
+Metformin Hcl|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Rosiglitazone Maleate|Tolazamide|Human Insulin
+Metformin Hydrochloride|Repaglinide|Glipizide|Acarbose
+Metformin Hydrochloride|Repaglinide|Glyburide
+Metformin Hydrochloride|Glimepiride|Glyburide|Rosiglitazone Maleate|Human Insulin
+Glipizide|Rosiglitazone Maleate|Acarbose
+Metformin Hcl|Glimepiride|Human Insulin
+Metformin Hcl|Glipizide|Pioglitazone
+Metformin Hydrochloride|Glipizide|Pioglitazone|Rosiglitazone Maleate|Human Insulin
+Metformin Hcl|Glipizide|Rosiglitazone Maleate
+Nateglinide|Glimepiride|Pioglitazone
+Repaglinide|Glipizide|Pioglitazone|Human Insulin
+Repaglinide|Nateglinide|Pioglitazone
+Metformin Hcl|Glyburide And Metformin Hydrochloride|Glyburide|Human Insulin
+Metformin Hydrochloride|Nateglinide|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Pioglitazone Hydrochloride And Glimepiride|Pioglitazone Hydrochloride And Glimepiride
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Glyburide
+Glimepiride|Acarbose
+Glimepiride|Pioglitazone|Rosiglitazone Maleate|Human Insulin
+Pioglitazone|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Glipizide|Acarbose
+Glimepiride|Acarbose|Human Insulin
+Glimepiride|Rosiglitazone Maleate|Acarbose
+Metformin Hcl|Glipizide
+Metformin Hydrochloride|Pioglitazone|Tolazamide
+Nateglinide|Rosiglitazone Maleate
+Miglitol
+Repaglinide|Nateglinide
+Rosiglitazone Maleate|Acarbose|Human Insulin
+Metformin Hydrochloride|Pioglitazone|Rosiglitazone Maleate
+Nateglinide|Rosiglitazone Maleate|Miglitol|Human Insulin
+Metformin Hydrochloride|Nateglinide|Glipizide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glipizide|Pioglitazone|Acarbose
+Metformin Hydrochloride|Glimepiride|Glipizide|Glyburide
+Metformin Hydrochloride|Repaglinide|Glimepiride|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Pioglitazone Hydrochloride And Glimepiride|Pioglitazone Hydrochloride And Glimepiride|Pioglitazone|Human Insulin
+Repaglinide|Glimepiride|Pioglitazone
+Glyburide And Metformin Hydrochloride|Glimepiride|Human Insulin
+Metformin Hydrochloride|Pioglitazone|Acarbose|Human Insulin
+Metformin Hydrochloride|Pioglitazole And Metformin Hydrochloride|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glyburide|Acarbose|Human Insulin
+Glimepiride|Rosiglitazone Maleate|Acarbose|Human Insulin
+Pioglitazone Hydrochloride And Glimepiride|Pioglitazone Hydrochloride And Glimepiride|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Pioglitazone|Acarbose
+Pioglitazone Hydrochloride And Glimepiride|Pioglitazone Hydrochloride And Glimepiride|Pioglitazone|Human Insulin
+Metformin Hcl|Glimepiride|Pioglitazone|Human Insulin
+Rosiglitazone Maleate|Tolazamide
+Metformin Hydrochloride|Repaglinide|Acarbose
+Metformin Hydrochloride|Repaglinide|Glimepiride|Human Insulin
+Glyburide And Metformin Hydrochloride|Glipizide|Human Insulin
+Glyburide And Metformin Hydrochloride|Glyburide|Acarbose
+Metformin Hydrochloride|Glipizide|Glyburide|Rosiglitazone Maleate
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Glipizide|Human Insulin
+Glimepiride|Rosiglitazone Maleate|Miglitol|Human Insulin
+Glyburide And Metformin Hydrochloride|Nateglinide|Glimepiride|Rosiglitazone Maleate
+Glyburide And Metformin Hydrochloride|Glyburide|Pioglitazone|Human Insulin
+Metformin Hcl|Glimepiride|Rosiglitazone Maleate|Human Insulin
+Metformin Hydrochloride|Nateglinide|Glimepiride
+Metformin Hydrochloride|Miglitol
+Metformin Hydrochloride|Nateglinide|Glipizide|Pioglitazone
+Repaglinide|Glipizide|Rosiglitazone Maleate|Human Insulin
+Repaglinide|Nateglinide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Nateglinide|Glimepiride|Human Insulin
+Metformin Hydrochloride|Repaglinide|Miglitol
+Metformin Hydrochloride|Pioglitazone Hydrochloride And Glimepiride|Pioglitazone Hydrochloride And Glimepiride|Human Insulin
+Glyburide|Rosiglitazone Maleate|Acarbose
+Metformin Hydrochloride|Repaglinide|Pioglitazone
+Glimepiride|Glyburide|Pioglitazone
+Metformin Hydrochloride|Glimepiride|Glipizide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Repaglinide|Glipizide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glipizide And Metformin Hydrochloride|Human Insulin
+Glyburide And Metformin Hydrochloride|Pioglitazone|Acarbose|Human Insulin
+Metformin Hydrochloride|Glyburide|Pioglitazone|Acarbose|Human Insulin
+Metformin Hydrochloride|Nateglinide|Glimepiride|Rosiglitazone Maleate
+Glimepiride|Glipizide|Rosiglitazone Maleate
+Nateglinide|Glyburide|Pioglitazone
+Glyburide And Metformin Hydrochloride|Glimepiride|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Glyburide And Metformin Hydrochloride|Rosiglitazone Maleate
+Glipizide|Pioglitazone|Acarbose|Human Insulin
+Repaglinide|Glyburide|Pioglitazone|Human Insulin
+Metformin Hydrochloride|Nateglinide|Glimepiride|Glipizide|Human Insulin
+Metformin Hcl|Rosiglitazone Maleate
+Metformin Hcl|Glyburide|Rosiglitazone Maleate|Human Insulin
